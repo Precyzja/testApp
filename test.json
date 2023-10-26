@@ -1,0 +1,26 @@
+[
+ {
+   "LocationId": 1,
+   "LocationName": "Wieża Ciśnień",
+   "ShortDescription": "Wieża ciśnień zbudowana dla Wytwórni Amunicji Nr3",
+   "LocationDescription": "Pierwotnie przemysłowa wieża ciśnień wybudowana w latach 1937-1939, na potrzeby Fabryki Amunicji Nr 3 (w ramach Centralnego Okręgu Przemysłowego). Budowa głębinowego ujęcia wody (czynnego do dzisiaj) oraz wieży ciśnień było jednym z pierwszych działań na terenie Dęby (obecnie Nowej Dęby). Po wojnie służyła również nowo powstałemu miastu.",
+   "Longitude": "21.7417722243436",
+   "Latitude": "50.4024238423919",
+   "Image1": "wiezacisnien",
+   "Image2": "",
+   "Image3": "",
+   "Image4": ""
+ },
+ {
+   "LocationId": 2,
+   "LocationName": "Willa Paulusówka",
+   "ShortDescription": "Siedziba płk. Szypowskiego ",
+   "LocationDescription": "W latach 1937-39 w Nowej Dębie (wówczas Dęba) w ramach Centralnego Okręgu Przemysłowego (COP) powstała Wytwórnia Amunicji nr 3. W związku z tym wybudowano w 1937 roku tzw. Białą Willę. Była przeznaczona dla ppłk Jana Szypowskiego, pierwszego kierownika fabryki amunicji.\n\n \n\nPo wojnie zamieszkiwali w niej pracownicy Zakładów Metalowych. Później została przekształcona w szkołę, a dziś jest świetlicą szkolną.\n\n \n\nJuż w okresie okupacji zwana była \"paulusówką\", a to dlatego, że podobno gościł w niej feldmarszałek Friedrich von Paulus w związku z niemieckimi ćwiczeniami na nowodębskim poligonie przed operacją \"Barbarossa” i kampanią stalingradzką. Badania historyczne nie potwierdzają tej informacji.",
+   "Longitude": "21.7474086239411",
+   "Latitude": "50.4141526356449",
+   "Image1": "paulusowka",
+   "Image2": "",
+   "Image3": "",
+   "Image4": ""
+ }
+]
