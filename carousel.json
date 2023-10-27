@@ -1,0 +1,19 @@
+[
+    {
+        "Id": 1,
+        "Title": "Trenuj z Kasią",
+        "Priority": 2,
+        "UrlAddress": "kasiafitness"
+    },
+    {
+        "Id": 2,
+        "Title": "Turkawa Solutions",
+        "Priority": 1,
+        "UrlAddress": "kuc"
+    },
+    {
+        "Id": 3,
+        "Title": "Fit and Fight",
+        "Priority": 1,
+        "UrlAddress": "fitkaruzel"
+    },
