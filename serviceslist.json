@@ -111,5 +111,21 @@
         "Image3": "dotnet_bot",
         "Latitude": 50.42803324701852,
         "Longitude": 21.75905545049962
+    },
+	{
+        "Id": 8,
+        "Category": 1,
+        "Name": "Aqua Aerobic",
+        "ShortDescription": "Zajęcia we wodzie",
+        "Description": "Można się popluskać i poćwiczyć jednocześnie. Zajęcia w mniejszym basenie. Daj się zachłysnąć!",
+	"Description2": "Prowadzi: Kucyk",
+        "Date": "Każda niedziela o 18",
+        "Place": "Basen kryty SOSiR",
+        "Telephone": "+48 888 515 549",
+        "MainImage": "dotnet_bot",
+        "Image2": "dotnet_bot",
+        "Image3": "dotnet_bot",
+        "Latitude": 50.42803324701852,
+        "Longitude": 21.75905545049962
     }
 ]
