@@ -2,16 +2,20 @@
     {
         "Id": 1,
         "Title": "Trenuj z Kasią",
-        "Priority": 2
+        "Priority": 2,
+        "ImageUrl": "kasiafitness"
+        
     },
     {
         "Id": 2,
         "Title": "Turkawa Solutions",
-        "Priority": 1
+        "Priority": 1,
+        "ImageUrl": "kuc"
     },
     {
         "Id": 3,
         "Title": "Fit and Fight",
-        "Priority": 1
+        "Priority": 1,
+        "ImageUrl": "fitkaruzel"
     }
 ]
