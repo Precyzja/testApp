@@ -4,20 +4,20 @@
         "Title": "Trenuj z Kasią",
         "NazwaPowiazanejUslugi": "Trenuj z Kasią",
         "Priority": 2,
-        "UrlAddress": "kasiafitness"
+        "ImageUrl": "kasiafitness"
     },
     {
         "Id": "2",
         "Title": "Turkawa Solutions",
         "NazwaPowiazanejUslugi": "Turkawa",
         "Priority": 1,
-        "UrlAddress": "kuc"
+        "ImageUrl": "kuc"
     },
     {
         "Id": "3",
         "Title": "Fit and Fight",
         "NazwaPowiazanejUslugi": "Fit and Fight",
         "Priority": 1,
-        "UrlAddress": "fitkaruzel"
+        "ImageUrl": "fitkaruzel"
     }
 ]
