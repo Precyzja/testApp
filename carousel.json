@@ -1,4 +1,5 @@
-   {
+[
+    {
         "Id": "1",
         "Title": "Trenuj z Kasią",
         "NazwaPowiazanejUslugi": "Trenuj z Kasią",
@@ -19,3 +20,4 @@
         "Priority": 1,
         "UrlAddress": "fitkaruzel"
     }
+]
