@@ -1,0 +1,20 @@
+[
+    {
+        "Category": "fitness",
+        "Name": "Trenuj z Kasią",
+        "Priority": 0,
+        "ShortDescription": "Najlepszy fitness w kraju",
+        "Description": "Długi opis co robi się na zajęciach u Kucyka, kiedy są zajęcia, na czym się skupia etc.",
+        "Descritpion2": null,
+        "Date": "Każdy wtorek i czwartek o 18",
+        "Place": "Budynek basenu krytego SOSiR, pierwsze piętro",
+        "Telephone": "+48 724 547 750",
+        "MainImage": "dotnet_bot",
+        "Image2": "dotnet_bot",
+        "Image3": "dotnet_bot",
+        "Latitude": 50.42803324701852,
+        "Longitude": 21.75905545049962,
+        "EnglishSprechen": null,
+        "CreatedAt": "0001-01-01T00:00:00"
+    }
+]
