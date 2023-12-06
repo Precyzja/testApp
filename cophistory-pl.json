@@ -29,7 +29,7 @@
     "Period1Active": true,
     "Period2Active": true,
     "Period3Active": true,
-    "Period4Active": true,
+    "Period4Active": false,
     "Period5Active": false,
     "Period6Active": false,
     "Period7Active": false,
