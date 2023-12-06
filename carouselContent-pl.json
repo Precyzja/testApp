@@ -1,20 +1,24 @@
 [
     {
-        "Category": "fitness",
-        "Name": "Trenuj z Kasią",
-        "Priority": 0,
-        "ShortDescription": "Najlepszy fitness w kraju",
-        "Description": "Długi opis co robi się na zajęciach u Kucyka, kiedy są zajęcia, na czym się skupia etc.",
-        "Descritpion2": null,
-        "Date": "Każdy wtorek i czwartek o 18",
-        "Place": "Budynek basenu krytego SOSiR, pierwsze piętro",
-        "Telephone": "+48 724 547 750",
-        "MainImage": "dotnet_bot",
-        "Image2": "dotnet_bot",
-        "Image3": "dotnet_bot",
-        "Latitude": 50.42803324701852,
-        "Longitude": 21.75905545049962,
-        "EnglishSprechen": null,
-        "CreatedAt": "0001-01-01T00:00:00"
-    }
+ "Category": "fitness",
+ "CreatedAt": "2023-12-04T16:23:55",
+ "Date": null,
+ "Description": "Długi opis Fitnessu z Kasią",
+ "EnglishSprechen": "Liquid",
+ "Latitude": 50.41784448784952,
+ "Longitude": 21.747368738229515,
+ "Mail": "kucyk@kucyk.pl",
+ "MainImage": "defaultmainfitness",
+ "Name": "Fitness z Kasią",
+ "OpenHours": "Wtorek 19.00 - 20.00\nWtorek 20.00 - 21.00\n\nWkrótce zajęcia również w czwartek!",
+ "Paid": false,
+ "Place": "Sala fitness na 1-szym piętrze basenu krytego SOSiR",
+ "Pricing": "20 PLN trening indywidualny, karnet miesięczny 50000 zł",
+ "Priority": 2,
+ "ShortDescription": "Najlepszy w Polsce",
+ "SubCategory": "none",
+ "Telephone": "555 888 555",
+ "Thumbnail": "defaultthumbfitness",
+ "Website": null
+}
 ]
