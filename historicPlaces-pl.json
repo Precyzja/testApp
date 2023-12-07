@@ -6,7 +6,8 @@
     "LocationDescription": "Pierwotnie przemysłowa wieża ciśnień wybudowana w latach 1937-1939, na potrzeby Fabryki Amunicji Nr 3 (w ramach Centralnego Okręgu Przemysłowego). Budowa głębinowego ujęcia wody (czynnego do dzisiaj) oraz wieży ciśnień było jednym z pierwszych działań na terenie Dęby (obecnie Nowej Dęby). Po wojnie służyła również nowo powstałemu miastu.",
     "Longitude": "21.7417722243436",
     "Latitude": "50.4024238423919",
-    "Image1": "wiezacisnien",
+    "Thumbnail": "https://i.postimg.cc/05LRmGw0/wiezacisnienmain.jpg",
+    "Image1": "https://i.postimg.cc/05LRmGw0/wiezacisnienmain.jpg",
     "Image2": "",
     "Image3": "",
     "Image4": ""
@@ -18,6 +19,7 @@
     "LocationDescription": "W latach 1937-39 w Nowej Dębie (wówczas Dęba) w ramach Centralnego Okręgu Przemysłowego (COP) powstała Wytwórnia Amunicji nr 3. W związku z tym wybudowano w 1937 roku tzw. Białą Willę. Była przeznaczona dla ppłk Jana Szypowskiego, pierwszego kierownika fabryki amunicji.\n Po wojnie zamieszkiwali w niej pracownicy Zakładów Metalowych. Później została przekształcona w szkołę, a dziś jest świetlicą szkolną. \n\nJuż w okresie okupacji zwana była \"paulusówką\", a to dlatego, że podobno gościł w niej feldmarszałek Friedrich von Paulus w związku z niemieckimi ćwiczeniami na nowodębskim poligonie przed operacją \"Barbarossa” i kampanią stalingradzką. Badania historyczne nie potwierdzają tej informacji.",
     "Longitude": "21.7474086239411",
     "Latitude": "50.4141526356449",
+    "Thumbnail": "https://i.postimg.cc/28hpxqdR/paulusowkamain.jpg",
     "Image1": "https://i.postimg.cc/TYsJ1BGw/paulusowka.png",
     "Image2": "",
     "Image3": "",
@@ -30,7 +32,8 @@
     "LocationDescription": "Zespół basenów na powietrzu w Nowej Dębie składa się z dwóch niecek: basenu pływackiego o wymiarach 50 m x 20 m i głębokości 1,20 m do 3 m. Basen powstał w latach 30-tych ubiegłego wieku i był tylko raz modernizowany, w latach 70-tych, kiedy to dokonano naprawy ścian niecki oraz wyłożono dno płytkami ceramicznymi. Wówczas również wybudowano przebieralnie, toalety oraz budynek z pomieszczeniami ratowników, magazynkiem kortów i pomieszczeniem chlorowni. W takim stanie basen funkcjonował do roku 2017.",
     "Longitude": "21.745794268311656",
     "Latitude": "50.41596297611235",
-    "Image1": "basenactual",
+    "Thumbnail": "https://i.postimg.cc/43X4HD0c/basenthumb.png",
+    "Image1": "https://i.postimg.cc/4dSXMmxv/basenmain.png",
     "Image2": "basenone",
     "Image3": "basentwo",
     "Image4": ""
@@ -42,7 +45,8 @@
     "LocationDescription": "Parafia pw. Podwyższenia Krzyża Św. powstała w 1985r z podziału istniejącej w Nowej Dębie parafii pw. Matki Bożej Królowej Polski. Dzieje tej parafii są ściśle powiązane z historią całego miasta Nowa Dęba, którego powstanie i rozwój był konsekwencją rozwoju na tym terenie ośrodka przemysłowego (od utworzenia w ramach COP-u w 1939r. Fabryki Amunicji Nr 3 poprzez zatrudniające w swych najlepszych latach ponad 5 tys. osób Zakłady Metalowe DEZAMET). Do 1957r. Dęba była punktem filialnym parafii Majdan Królewski (nazwa \"Nowa Dęba\" pojawiła się dopiero w 1961r., kiedy to miejscowość otrzymała prawa miejskie). W latach 1947 do 1951 nabożeństwa odprawiano w udostępnionym przez dyrekcję DEZAMET na terenie osiedla lokalu, a po cofnięciu zgody - \"pod gołym niebem na łące\". Wtedy też przystąpiono do budowy drewnianej kaplicy, która - pomimo wielu wysiłków władz, uznających tę budowę za nielegalną - przetrwała jako siedziba parafii Matki Bożej Królowej Polski do końca lat dziewięćdziesiątych. Wieloletnie starania ówczesnego proboszcza ks. prałata Henryka Łagockiego (zm. 28 października 1984r.) o uzyskanie pozwolenia na budowę nowej świątyni, a także wyznaczenia miejsca pod jej lokalizację, zostały uwieńczone sukcesem dopiero na początku lat 80-tych. W lipcu 1982r. na \"górce\" rozpoczęto budowę kościoła pw. Podwyższenia Krzyża Św., a w 1985r. utworzono nową parafię, której proboszczem został ks. Eugeniusz Nycz.",
     "Longitude": "21.745794268311656",
     "Latitude": "50.41596297611235",
-    "Image1": "basenactual",
+    "Thumbnail": "https://i.postimg.cc/KjCvKRXc/kosciolmain.jpg",
+    "Image1": "https://i.postimg.cc/KjCvKRXc/kosciolmain.jpg",
     "Image2": "basenone",
     "Image3": "basentwo",
     "Image4": ""
