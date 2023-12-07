@@ -4,20 +4,20 @@
         "Title": "Trenuj z Kasią",
         "NazwaPowiazanejUslugi": "Fitness z Kasią",
         "Priority": 2,
-        "ImageUrl": "https://i.postimg.cc/1tBxb155/kasiafitnesssmall.png"
+        "ImageUrl": "https://i.postimg.cc/sfh96FHW/kasiafitnesssmall.png"
     },
     {
         "Id": "2",
         "Title": "Turkawa Solutions",
         "NazwaPowiazanejUslugi": "Turkawa",
         "Priority": 1,
-        "ImageUrl": "kuc"
+        "ImageUrl": "https://i.postimg.cc/cCwRrYth/kuc.png"
     },
     {
         "Id": "3",
-        "Title": "Fit and Fight",
-        "NazwaPowiazanejUslugi": "Fit and Fight",
+        "Title": "Miejsce",
+        "NazwaPowiazanejUslugi": "Miejsce",
         "Priority": 1,
-        "ImageUrl": "fitkaruzel"
+        "ImageUrl": "https://i.postimg.cc/Mptw2QLC/Miejsce.png"
     }
 ]
