@@ -12,7 +12,7 @@
         "OkBicycle": true,
         "OkBombelek": false,
         "Official": true,
-        "Difficulty": 2,
+        "Difficulty": 1,
         "CenterPoint": {
             "Latitude": 50.41589246947647,
             "Longitude": 21.751153201458735
