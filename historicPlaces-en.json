@@ -1,54 +1,54 @@
 [
-  {
-    "LocationId": 1,
-    "LocationName": "Wieża Ciśnień",
-    "ShortDescription": "Wieża ciśnień zbudowana dla Wytwórni Amunicji Nr3",
-    "LocationDescription": "Pierwotnie przemysłowa wieża ciśnień wybudowana w latach 1937-1939, na potrzeby Fabryki Amunicji Nr 3 (w ramach Centralnego Okręgu Przemysłowego). Budowa głębinowego ujęcia wody (czynnego do dzisiaj) oraz wieży ciśnień było jednym z pierwszych działań na terenie Dęby (obecnie Nowej Dęby). Po wojnie służyła również nowo powstałemu miastu.",
-    "Longitude": "21.7417722243436",
-    "Latitude": "50.4024238423919",
-    "Thumbnail": "https://i.postimg.cc/05LRmGw0/wiezacisnienmain.jpg",
-    "Image1": "https://i.postimg.cc/05LRmGw0/wiezacisnienmain.jpg",
-    "Image2": "",
-    "Image3": "",
-    "Image4": ""
-  },
-  {
-    "LocationId": 2,
-    "LocationName": "Willa Paulusówka",
-    "ShortDescription": "Siedziba ppłk. Szypowskiego ",
-    "LocationDescription": "W latach 1937-39 w Nowej Dębie (wówczas Dęba) w ramach Centralnego Okręgu Przemysłowego (COP) powstała Wytwórnia Amunicji nr 3. W związku z tym wybudowano w 1937 roku tzw. Białą Willę. Była przeznaczona dla ppłk Jana Szypowskiego, pierwszego kierownika fabryki amunicji.\n Po wojnie zamieszkiwali w niej pracownicy Zakładów Metalowych. Później została przekształcona w szkołę, a dziś jest świetlicą szkolną. \n\nJuż w okresie okupacji zwana była \"paulusówką\", a to dlatego, że podobno gościł w niej feldmarszałek Friedrich von Paulus w związku z niemieckimi ćwiczeniami na nowodębskim poligonie przed operacją \"Barbarossa” i kampanią stalingradzką. Badania historyczne nie potwierdzają tej informacji.",
-    "Longitude": "21.7474086239411",
-    "Latitude": "50.4141526356449",
-    "Thumbnail": "https://i.postimg.cc/28hpxqdR/paulusowkamain.jpg",
-    "Image1": "https://i.postimg.cc/TYsJ1BGw/paulusowka.png",
-    "Image2": "",
-    "Image3": "",
-    "Image4": ""
-  },
-  {
-    "LocationId": 3,
-    "LocationName": "Basen otwarty",
-    "ShortDescription": "Obiekt dla pracowników Wytwórni i mieszkanców",
-    "LocationDescription": "Zespół basenów na powietrzu w Nowej Dębie składa się z dwóch niecek: basenu pływackiego o wymiarach 50 m x 20 m i głębokości 1,20 m do 3 m. Basen powstał w latach 30-tych ubiegłego wieku i był tylko raz modernizowany, w latach 70-tych, kiedy to dokonano naprawy ścian niecki oraz wyłożono dno płytkami ceramicznymi. Wówczas również wybudowano przebieralnie, toalety oraz budynek z pomieszczeniami ratowników, magazynkiem kortów i pomieszczeniem chlorowni. W takim stanie basen funkcjonował do roku 2017.",
-    "Longitude": "21.745794268311656",
-    "Latitude": "50.41596297611235",
-    "Thumbnail": "https://i.postimg.cc/43X4HD0c/basenthumb.png",
-    "Image1": "https://i.postimg.cc/4dSXMmxv/basenmain.png",
-    "Image2": "basenone",
-    "Image3": "basentwo",
-    "Image4": ""
-  },
-  {
-    "LocationId": 4,
-    "LocationName": "Kościół parafialny",
-    "ShortDescription": "parafia pw. Podwyższenia Krzyża Świętego",
-    "LocationDescription": "Parafia pw. Podwyższenia Krzyża Św. powstała w 1985r z podziału istniejącej w Nowej Dębie parafii pw. Matki Bożej Królowej Polski. Dzieje tej parafii są ściśle powiązane z historią całego miasta Nowa Dęba, którego powstanie i rozwój był konsekwencją rozwoju na tym terenie ośrodka przemysłowego (od utworzenia w ramach COP-u w 1939r. Fabryki Amunicji Nr 3 poprzez zatrudniające w swych najlepszych latach ponad 5 tys. osób Zakłady Metalowe DEZAMET). Do 1957r. Dęba była punktem filialnym parafii Majdan Królewski (nazwa \"Nowa Dęba\" pojawiła się dopiero w 1961r., kiedy to miejscowość otrzymała prawa miejskie). W latach 1947 do 1951 nabożeństwa odprawiano w udostępnionym przez dyrekcję DEZAMET na terenie osiedla lokalu, a po cofnięciu zgody - \"pod gołym niebem na łące\". Wtedy też przystąpiono do budowy drewnianej kaplicy, która - pomimo wielu wysiłków władz, uznających tę budowę za nielegalną - przetrwała jako siedziba parafii Matki Bożej Królowej Polski do końca lat dziewięćdziesiątych. Wieloletnie starania ówczesnego proboszcza ks. prałata Henryka Łagockiego (zm. 28 października 1984r.) o uzyskanie pozwolenia na budowę nowej świątyni, a także wyznaczenia miejsca pod jej lokalizację, zostały uwieńczone sukcesem dopiero na początku lat 80-tych. W lipcu 1982r. na \"górce\" rozpoczęto budowę kościoła pw. Podwyższenia Krzyża Św., a w 1985r. utworzono nową parafię, której proboszczem został ks. Eugeniusz Nycz.",
-    "Longitude": "21.745794268311656",
-    "Latitude": "50.41596297611235",
-    "Thumbnail": "https://i.postimg.cc/KjCvKRXc/kosciolmain.jpg",
-    "Image1": "https://i.postimg.cc/KjCvKRXc/kosciolmain.jpg",
-    "Image2": "basenone",
-    "Image3": "basentwo",
-    "Image4": ""
-  }
+    {
+        "LocationId": 1,
+        "LocationName": "Water Tower",
+        "ShortDescription": "Water tower built for Ammunition Plant No. 3",
+        "LocationDescription": "Originally an industrial water tower built in 1937-1939 for the needs of Ammunition Factory No. 3 (within the Central Industrial District). The construction of a deep water intake (still active today) and a water tower was one of the first activities in Dęba (now Nowa Dęba). After the war, it also served the newly established city.",
+        "Longitude": "21.7417722243436",
+        "Latitude": "50.4024238423919",
+        "Thumbnail": "https://i.postimg.cc/05LRmGw0/wiezacisnienmain.jpg",
+        "Image1": "https://i.postimg.cc/05LRmGw0/wiezacisnienmain.jpg",
+        "Image2": "",
+        "Image3": "",
+        "Image4": ""
+    },
+    {
+        "LocationId": 2,
+        "LocationName": "White Villa \"Paulusówka\"",
+        "ShortDescription": "Headquarters of Lt. Col. Szypowski",
+        "LocationDescription": "In the years 1937-39 in Nowa Dęba (then Dęba), within the Central Industrial District (COP), Ammunition Factory No. 3 was established. Therefore, the so-called White Villa was built in 1937. It was intended for Lt. Col. Jan Szypowski , the first manager of the ammunition factory.\n After the war, employees of Zakłady Metalowe lived there. Later, it was transformed into a school, and today it is a school common room. \n\nAlready during the occupation, it was called \"Paulusówka\", because it is said that Field Marshal Friedrich von Paulus visited it in connection with German exercises at the Nowy Dęba training ground before Operation Barbarossa and the Stalingrad campaign. Historical research does not confirm this information.",
+        "Longitude": "21.7474086239411",
+        "Latitude": "50.4141526356449",
+        "Thumbnail": "https://i.postimg.cc/28hpxqdR/paulusowkamain.jpg",
+        "Image1": "https://i.postimg.cc/TYsJ1BGw/paulusowka.png",
+        "Image2": "",
+        "Image3": "",
+        "Image4": ""
+    },
+    {
+        "LocationId": 3,
+        "LocationName": "Open pool",
+        "ShortDescription": "Facility for the Plant's employees and residents",
+        "LocationDescription": "The outdoor swimming pool complex in Nowa Dęba consists of two basins: a swimming pool with dimensions of 50 m x 20 m and a depth of 1.20 m to 3 m. The pool was built in the 1930s and was modernized only once, in the 1970s, when the walls of the pool were repaired and the bottom was lined with ceramic tiles. At that time, changing rooms, toilets and a building with lifeguard rooms, a tennis storage room and a chlorination room were built. The pool operated in this condition until 2017,",
+        "Longitude": "21.745794268311656",
+        "Latitude": "50.41596297611235",
+        "Thumbnail": "https://i.postimg.cc/43X4HD0c/basenthumb.png",
+        "Image1": "https://i.postimg.cc/4dSXMmxv/basenmain.png",
+        "Image2": "",
+        "Image3": "",
+        "Image4": ""
+    },
+    {
+        "LocationId": 4,
+        "LocationName": "Church",
+        "ShortDescription": "parish of the Exaltation of the Holy Cross",
+        "LocationDescription": "The parish of the Exaltation of the Holy Cross was established in 1985 from the division of the parish of Our Lady Queen of Poland existing in Nowa Dęba. The history of this parish is closely related to the history of the entire town of Nowa Dęba, the creation and development of which was a consequence of the development of this area of the industrial center (from the establishment of the Ammunition Factory No. 3 as part of the COP in 1939, through Zakłady Metalowe DEZAMET, which in its best years employed over 5,000 people). Until 1957, Dęba was a branch of the Majdan Królewski parish (name \"New Dęba appeared only in 1961, when the town received city rights. In the years 1947 to 1951, services were held in the premises provided by the DEZAMET management within the estate, and after the consent was withdrawn. It was then that the construction of a wooden chapel began, which - despite many efforts of the authorities who considered the construction illegal - survived as the seat of the parish of Our Lady Queen of Poland until the end of the 1990s. Many years of effort by the then parish priest, Fr. Prelate Henryk Łagocki (d. October 28, 1984) to obtain permission to build a new temple, as well as to designate a place for its location, were crowned with success only in the early 1980s. In July 1982 on the \"hill\" the construction of the church began. Exaltation of the Holy Cross, and in 1985 a new parish was established, the parish priest of which was Fr. Eugeniusz Nycz.",
+        "Longitude": "21.745794268311656",
+        "Latitude": "50.41596297611235",
+        "Thumbnail": "https://i.postimg.cc/KjCvKRXc/kosciolmain.jpg",
+        "Image1": "https://i.postimg.cc/KjCvKRXc/kosciolmain.jpg",
+        "Image2": "",
+        "Image3": "",
+        "Image4": ""
+    }
 ]
