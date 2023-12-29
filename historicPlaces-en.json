@@ -50,5 +50,44 @@
         "Image2": "",
         "Image3": "",
         "Image4": ""
-    }
+    },
+    {
+     "LocationId": 5,
+     "LocationName": "City Casino",
+     "ShortDescription": "For residents and employees",
+     "LocationDescription": "",
+     "Longitude": "21.7474086239411",
+     "Latitude": "50.4141526356449",
+     "Thumbnail": "https://i.postimg.cc/NFGr3vt5/kasynothumb.png",
+     "Image1": "https://i.postimg.cc/jd3tQ0kZ/kasynomain.png",
+     "Image2": "",
+     "Image3": "",
+     "Image4": ""
+   },
+    {
+     "LocationId": 6,
+     "LocationName": "Hidden Shelter",
+     "ShortDescription": "Built in the early years of the city's development",
+     "LocationDescription": "",
+     "Longitude": "21.7474086239411",
+     "Latitude": "50.4141526356449",
+     "Thumbnail": "https://i.postimg.cc/hGZKMFjS/schronthumb.jpg",
+     "Image1": "https://i.postimg.cc/1tgsjWnD/schronmain.jpg",
+     "Image2": "",
+     "Image3": "",
+     "Image4": ""
+   },
+   {
+     "LocationId": 7,
+     "LocationName": "Tool Manufactory",
+     "ShortDescription": "At the Ammunition Factory No. 3",
+     "LocationDescription": "",
+     "Longitude": "21.7474086239411",
+     "Latitude": "50.4141526356449",
+     "Thumbnail": "https://i.postimg.cc/fyH0ZqW5/narzedziowniathumb.png",
+     "Image1": "https://i.postimg.cc/Pr5dwrKC/narzedziownia.png",
+     "Image2": "",
+     "Image3": "",
+     "Image4": ""
+   }
 ]
