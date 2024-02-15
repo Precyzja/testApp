@@ -381,8 +381,8 @@
   {
     "TrackId": 0,
     "TrackName": "Ścieżka Berówka",
-    "ShortDescription": "Łatwa trasa edukacyjna. Źródło: traseo.pl, trasa użytkownika Ekomuzeum",
-    "LongDescription": "Opis w przygotowaniu.",
+    "ShortDescription": "Łatwa trasa edukacyjna. Opis kiedyś przygotuje albo skopiuje z tablicy na wjeździe na ścieżkę :)",
+    "LongDescription": "Opis w przygotowaniu. Źródło: traseo.pl, trasa użytkownika Ekomuzeum",
     "Length": 7,
     "Thumbnail": "https://i.postimg.cc/Gm56cVXD/berowkathumb.png",
     "Image1": "https://i.postimg.cc/RV48cvRX/ponymain.jpg",
@@ -1230,7 +1230,7 @@
         "TrackId": 2,
         "TrackName": "Rajd \"Burza\"",
         "ShortDescription": "Trasa rajdu rowerowego",
-        "LongDescription": "Rajd rowerowy Burza - wyprawa z historią w tle. Samorządowy Ośrodek Sportu i Rekreacji w Nowej Dębie organizował w sobotę 04 września 2021 r. VIII Rajd Rowerowy „BURZA’’ – Wyprawa z historią w tle na trasie Nowa Dęba – Dzikowiec. Źródło: traseo.pl, user: mario3oo",
+        "LongDescription": "Rajd rowerowy Burza - wyprawa z historią w tle. Samorządowy Ośrodek Sportu i Rekreacji w Nowej Dębie organizował w sobotę 04 września 2021 r. VIII Rajd Rowerowy „BURZA’’ – Wyprawa z historią w tle na trasie Nowa Dęba – Dzikowiec. Źródło: traseo.pl, użytkownik: mario3oo",
         "Length": 52,
         
 		"Thumbnail": "https://i.postimg.cc/vTnZz5Dq/ndroweronethumb.jpg",
@@ -1242,8 +1242,8 @@
         "Official": false,
         "Difficulty": 1,
       "CenterPoint": {
-        "Latitude": 50.664566181035106,
-        "Longitude": 20.89097361702619
+        "Latitude": 50.34569608317723,
+        "Longitude": 21.800019160351624
       },
       "TurningMarks": [
 
