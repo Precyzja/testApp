@@ -4,20 +4,20 @@
         "Title": "Trenuj z Kasią",
         "NazwaPowiazanejUslugi": "Fitness z Kasią",
         "Priority": 2,
-        "ImageUrl": "https://i.postimg.cc/0Q5CqcfV/kucykcarouselsmall.png"
+        "ImageUrl": "https://turkawasolutions.eu/wp-content/uploads/Carousel/carouselkucyk.png"
     },
     {
         "Id": "2",
         "Title": "Turkawa Solutions",
         "NazwaPowiazanejUslugi": "Turkawa",
         "Priority": 1,
-        "ImageUrl": "kuccarousel"
+        "ImageUrl": "carouselkuc"
     },
     {
         "Id": "3",
         "Title": "Miejsce",
         "NazwaPowiazanejUslugi": "Miejsce",
         "Priority": 1,
-        "ImageUrl": "https://i.postimg.cc/t4MLKKy4/miejscenew.png"
+        "ImageUrl": "carouselmiejscenew"
     }
 ]
